@@ -1,4 +1,6 @@
 # Jitsi Meet on Docker
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNandhanrajvir%2Fdocker-jitsi-meet.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FNandhanrajvir%2Fdocker-jitsi-meet?ref=badge_shield)
+
 
 ![](resources/jitsi-docker.png)
 
@@ -37,3 +39,7 @@ If you plan to install the jitsi-meet stack on a Kubernetes cluster you can find
 ## TODO
 
 * Builtin TURN server.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FNandhanrajvir%2Fdocker-jitsi-meet.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FNandhanrajvir%2Fdocker-jitsi-meet?ref=badge_large)
